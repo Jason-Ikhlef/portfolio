@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Jason-Ikhlef/portfolio/static/css/main.4b71ce16.css",
-    "main.js": "/Jason-Ikhlef/portfolio/static/js/main.431c1255.js",
-    "static/media/CV-JASON-IKHLEF.pdf": "/Jason-Ikhlef/portfolio/static/media/CV-JASON-IKHLEF.a724930d427a8064006f.pdf",
-    "static/media/isaac.png": "/Jason-Ikhlef/portfolio/static/media/isaac.6d9447cc28cb078295d8.png",
-    "static/media/me.jpg": "/Jason-Ikhlef/portfolio/static/media/me.b69b1412b032da489d77.jpg",
-    "static/media/ecom.png": "/Jason-Ikhlef/portfolio/static/media/ecom.80d843359c8a5a554d22.png",
-    "static/media/twitter.jpg": "/Jason-Ikhlef/portfolio/static/media/twitter.f1156dee19963e7459c8.jpg",
-    "index.html": "/Jason-Ikhlef/portfolio/index.html",
-    "main.4b71ce16.css.map": "/Jason-Ikhlef/portfolio/static/css/main.4b71ce16.css.map",
-    "main.431c1255.js.map": "/Jason-Ikhlef/portfolio/static/js/main.431c1255.js.map"
+    "main.css": "/portfolio/static/css/main.4b71ce16.css",
+    "main.js": "/portfolio/static/js/main.3e3b37b4.js",
+    "static/media/CV-JASON-IKHLEF.pdf": "/portfolio/static/media/CV-JASON-IKHLEF.a724930d427a8064006f.pdf",
+    "static/media/isaac.png": "/portfolio/static/media/isaac.6d9447cc28cb078295d8.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.b69b1412b032da489d77.jpg",
+    "static/media/ecom.png": "/portfolio/static/media/ecom.80d843359c8a5a554d22.png",
+    "static/media/twitter.jpg": "/portfolio/static/media/twitter.f1156dee19963e7459c8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.4b71ce16.css.map": "/portfolio/static/css/main.4b71ce16.css.map",
+    "main.3e3b37b4.js.map": "/portfolio/static/js/main.3e3b37b4.js.map"
   },
   "entrypoints": [
     "static/css/main.4b71ce16.css",
-    "static/js/main.431c1255.js"
+    "static/js/main.3e3b37b4.js"
   ]
 }
