@@ -43,7 +43,7 @@ function Portfolio() {
               </div>
             )}
             <div className="btn_container">
-              <a href="https://github.com/EpitechWebAcademiePromo2024/W-WEB-090-LIL-1-1-academie-quentin.guidez" className="btn github_btn" target="_blank" rel="noreferrer">Github</a>
+              <a href="https://github.com/Jason-Ikhlef/my_twitter" className="btn github_btn" target="_blank" rel="noreferrer">Github</a>
               <button className="btn description_btn" onClick={() => toggleDescription(0)}>
                 {showDescription[0] ? "Image" : "Description"}
               </button>
@@ -74,7 +74,7 @@ function Portfolio() {
               </div>
             )}
             <div className="btn_container">
-              <a href="https://github.com/EpitechWebAcademiePromo2024/W-PHP-502-LIL-2-1-Quiz-jason.ikhlef" className="btn github_btn" target="_blank" rel="noreferrer">Github</a>
+              <a href="https://github.com/Jason-Ikhlef/my_ecom" target="_blank" rel="noreferrer">Github</a>
               <button className="btn description_btn" onClick={() => toggleDescription(1)}>
                 {showDescription[1] ? "Image" : "Description"}
               </button>
@@ -108,7 +108,7 @@ function Portfolio() {
               </div>
             )}
             <div className="btn_container">
-              <a href="https://github.com/EpitechWebAcademiePromo2024/W-PHP-502-LIL-2-1-FreeAds-jason.ikhlef" className="btn github_btn" target="_blank" rel="noreferrer">Github</a>
+              <a href="https://github.com/Jason-Ikhlef/my_isaac" className="btn github_btn" target="_blank" rel="noreferrer">Github</a>
               <button className="btn description_btn" onClick={() => toggleDescription(2)}>
                 {showDescription[2] ? "Image" : "Description"}
               </button>
